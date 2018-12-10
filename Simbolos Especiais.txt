@@ -1,0 +1,43 @@
+    <h1> Símbolos Especiais</h1>
+    <p>
+        &lt;
+        &gt;
+        &le;
+        &ge; <br/>
+        &pound;
+        &yen;
+        &euro; <br/>
+        &copy;
+        &reg;
+        &trade; <br/>
+        &permil;
+        &sum;
+        &infin;
+        &times;
+        &plusmn;
+        &oplus;
+        &radic;
+        &ne;<br/>
+        &Delta;
+        &Lambda;
+        &phi; <br/>
+
+        &larr;
+        &rarr;
+        &darr;
+        &harr;<br/>
+
+        &spades;
+        &clubs;
+        &hearts;
+        &diams;<br/>
+
+
+
+
+
+
+
+
+
+    </p>
